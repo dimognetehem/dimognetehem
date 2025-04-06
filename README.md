@@ -65,7 +65,7 @@
       <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
     </td>
     <td align="center" width="96">
-      <img src="./img/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" /><br>GitHub Actions
+      <img src="./img/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins
     </td>
     <td align="center" width="96">
       <img src="./img/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
@@ -96,7 +96,7 @@
       <img src="./img/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+      <img src="./img/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" /><br>MySQL
     </td>
     <td align="center" width="96">
       <img src="./img/oracle-original.svg" width="48" height="48" alt="Oracle" /><br>Oracle
