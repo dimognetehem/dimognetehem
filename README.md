@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello ! I'm Emmanuel Franck Dimogne TEHEM</h1>
+<h1 align="left" id="dimognetehem-title">:wave: Hello ! I'm Emmanuel Franck Dimogne TEHEM</h1>
 <h3 align="left">I am a Dev(Sec)Ops/Software Engineer</h3>
 
 <p align="left">
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<a href="#macropower-title">
+<a href="#dimognetehem-title">
   <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/overview.svg" alt="dimognetehem" align="left" />
   <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/languages.svg" alt="dimognetehem" align="right" />
 </a>
@@ -28,7 +28,7 @@
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - Connect with me on **[Linkedin]**
 
-<h2 align="left" id="macropower-tech">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 > Tools, languages, and other things that I have work with.
 
