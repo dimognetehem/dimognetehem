@@ -121,6 +121,12 @@
 <table>
   <tr>
     <td align="center" width="156">
+      <img src="./badges/MOSWord.png" width="128" height="128" alt="MOS Word" /><br>29/02/2021
+    </td>
+    <td align="center" width="156">
+      <img src="./badges/gcpbadge.png" width="128" height="128" alt="GCP ACE" /><br>(En cours)
+    </td>
+    <td align="center" width="156">
       <img src="./badges/githubfoundations.png" width="128" height="128" alt="GitHub Foundations" /><br>(En cours)
     </td>
     <td align="center" width="156">
