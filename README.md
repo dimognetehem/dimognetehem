@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/languages.svg" alt="dimognetehem" align="right" />
 </a>
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 - :speech_balloon: &nbsp;I like to talk about **Cloud** and **DevOps** things
 - :book: &nbsp;Learn more about my projects on my **[portfolio]**
