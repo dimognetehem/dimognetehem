@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello ! I'm Emmanuel Franck Dimogne TEHEM</h1>
-<h3 align="left">I am a Software/Dev(Sec)Ops Engineer</h3>
+<h3 align="left">I am a Dev(Sec)Ops/Software Engineer</h3>
 
 <p align="left">
   <a href="https://github.com/dimognetehem/dimognetehem">
@@ -29,62 +29,92 @@
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Tech Stack</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I have work with.
+
+### 🚀 Languages & Frameworks
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
+      <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+      <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+      <img src="./img/python-original.svg" width="48" height="48" alt="Python" /><br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+      <img src="./img/java-original.svg" width="48" height="48" alt="Java" /><br>Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
+      <img src="./img/nextjs-original.svg" width="48" height="48" alt="Next.js" /><br>Next.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <img src="./img/react-original.svg" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="./img/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js
     </td>
   </tr>
 </table>
+
+### ☁️ DevOps & Cloud Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="./img/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" /><br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <img src="./img/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="./img/aws-original.svg" width="48" height="48" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="./img/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br>Google Cloud
+    </td>
+    <td align="center" width="96">
+      <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="./img/grafana-original.svg" width="48" height="48" alt="Grafana" /><br>Grafana
+    </td>
+  </tr>
+</table>
+
+### 🛢️ Bases de données
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="./img/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="./img/oracle-original.svg" width="48" height="48" alt="Oracle" /><br>Oracle
+    </td>
+  </tr>
+</table>
+
+### 📜 Certifications
+
+  - 🎓 [Google Cloud] Formation **Associate Cloud Engineer** (MBOA PARIS)
+  - 🛡️ En cours : **MongoDB Associate Developer Certification**
+  - 🧪 Sécurité des applications web et mobiles (projets personnels avec Kali Linux / Metasploitable2)
+  - 🧠 Initiation à DevSecOps (projet personnel sur AWS)
+
 
 <!-- links -->
 
