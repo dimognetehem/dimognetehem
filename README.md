@@ -3,16 +3,13 @@
 
 <p align="left">
   <a href="https://github.com/dimognetehem/dimognetehem">
-    <img src="https://komarev.com/ghpvc/?username=dimognetehem" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=dimognetehem&style=for-the-badge" alt="page views" />
   </a>
   <a href="https://dimognetehem.vercel.app">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdimognetehem.vercel.app">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdimognetehem.vercel.app&style=for-the-badge">
   </a>
   <a href="https://github.com/dimognetehem?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimognetehem?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimognetehem?style=for-the-badge&logo=github&color=yellow">
   </a>
 </p>
 
