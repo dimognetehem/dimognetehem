@@ -89,6 +89,9 @@
       <img src="./img/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br>GCP
     </td>
     <td align="center" width="96">
+      <img src="./img/firebase-original.svg" width="48" height="48" alt="Firebase" /><br>Firebase
+    </td>
+    <td align="center" width="96">
       <img src="./img/trivy.svg" width="48" height="48" alt="Trivy" /><br>Trivy
     </td>
     <td align="center" width="96">
@@ -124,16 +127,16 @@
       <img src="./badges/MOSWord.png" width="128" height="128" alt="MOS Word" /><br>29/02/2021
     </td>
     <td align="center" width="156">
-      <img src="./badges/gcpbadge.png" width="128" height="128" alt="GCP ACE" /><br>(En cours)
+      <img src="./badges/gcpbadge.png" width="128" height="128" alt="GCP ACE" /><br>(In progress...)
     </td>
     <td align="center" width="156">
-      <img src="./badges/githubfoundations.png" width="128" height="128" alt="GitHub Foundations" /><br>(En cours)
+      <img src="./badges/githubfoundations.png" width="128" height="128" alt="GitHub Foundations" /><br>(In progress...)
     </td>
     <td align="center" width="156">
-      <img src="./badges/badgeMongoDB.png" width="128" height="128" alt="MongoDB" /><br>(En cours)
+      <img src="./badges/badgeMongoDB.png" width="128" height="128" alt="MongoDB" /><br>(In progress...)
     </td>
     <td align="center" width="156">
-      <img src="./badges/awsbadge.png" width="128" height="128" alt="AWS" /><br>(En cours)
+      <img src="./badges/awsbadge.png" width="128" height="128" alt="AWS" /><br>(In progress...)
     </td>
   </tr>
 </table>
