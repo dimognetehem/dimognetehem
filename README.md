@@ -118,12 +118,19 @@
 
 ### 📜 Certifications
 
-  - 🎓 [Google Cloud] Formation **Associate Cloud Engineer** (MBOA PARIS)
-  - 🛡️ En cours : **MongoDB Associate Developer Certification**
-  - 🧪 Sécurité des applications web et mobiles (projets personnels avec Kali Linux / Metasploitable2)
-  - 🧠 Initiation à DevSecOps (projet personnel sur AWS)
-
-
+<table>
+  <tr>
+    <td align="center" width="156">
+      <img src="./badges/githubfoundations.png" width="128" height="128" alt="GitHub Foundations" /><br>(En cours)
+    </td>
+    <td align="center" width="156">
+      <img src="./badges/badgeMongoDB.png" width="128" height="128" alt="MongoDB" /><br>(En cours)
+    </td>
+    <td align="center" width="156">
+      <img src="./badges/awsbadge.png" width="128" height="128" alt="AWS" /><br>(En cours)
+    </td>
+  </tr>
+</table>
 <!-- links -->
 
 [issues page]: https://github.com/dimognetehem/dimognetehem/issues "dimognetehem/issues"
