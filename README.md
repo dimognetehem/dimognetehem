@@ -26,7 +26,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Cloud** and **DevOps** things
 - :book: &nbsp;Learn more about my projects on my **[portfolio]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- Connect with me on **[Linkedin]**
+- 💻 Connect with me on **[Linkedin]**
 
 <h2 align="left">Tech Stack</h2>
 
