@@ -17,15 +17,14 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/overview.svg" alt="dimognetehem" align="right" />
+  <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/languages.svg" alt="dimognetehem" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at *****
-- :seedling: &nbsp;I’m currently working on my **[projetcloud]**
 - :speech_balloon: &nbsp;I like to talk about **Cloud** and **DevOps** things
 - :book: &nbsp;Learn more about my projects on my **[portfolio]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- Connect with me on **[Linkedin]**
 
 <br>
 
