@@ -17,7 +17,7 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/overview.svg" alt="dimognetehem" align="right" />
+  <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/overview.svg" alt="dimognetehem" align="left" />
   <img src="https://raw.githubusercontent.com/dimognetehem/github-stats-transparent/output/generated/languages.svg" alt="dimognetehem" align="right" />
 </a>
 
