@@ -46,6 +46,15 @@
       <img src="./img/java-original.svg" width="48" height="48" alt="Java" /><br>Java
     </td>
     <td align="center" width="96">
+      <img src="./img/spring-original.svg" width="48" height="48" alt="Spring" /><br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="./img/spring-boot.svg" width="48" height="48" alt="SpringBoot" /><br>SpringBoot
+    </td>
+    <td align="center" width="96">
+      <img src="./img/angular-original.svg" width="48" height="48" alt="Angular" /><br>Angular
+    </td>
+    <td align="center" width="96">
       <img src="./img/nextjs-original.svg" width="48" height="48" alt="Next.js" /><br>Next.js
     </td>
     <td align="center" width="96">
@@ -65,6 +74,9 @@
       <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
     </td>
     <td align="center" width="96">
+      <img src="./img/terraform-original.svg" width="48" height="48" alt="Terraform" /><br>Terraform
+    </td>
+    <td align="center" width="96">
       <img src="./img/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins
     </td>
     <td align="center" width="96">
@@ -74,18 +86,18 @@
       <img src="./img/aws-original.svg" width="48" height="48" alt="AWS" /><br>AWS
     </td>
     <td align="center" width="96">
-      <img src="./img/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br>Google Cloud
+      <img src="./img/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br>GCP
     </td>
     <td align="center" width="96">
-      <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
+      <img src="./img/trivy.svg" width="48" height="48" alt="Trivy" /><br>Trivy
     </td>
     <td align="center" width="96">
-      <img src="./img/grafana-original.svg" width="48" height="48" alt="Grafana" /><br>Grafana
+      <img src="./img/sonarqube-plain.svg" width="48" height="48" alt="SonarQube" /><br>SonarQube
     </td>
   </tr>
 </table>
 
-### 🛢️ Bases de données
+### 🛢️ Databases
 
 <table>
   <tr>
