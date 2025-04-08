@@ -27,7 +27,7 @@
 
 <h2 align="left">Tech Stack</h2>
 
-> Tools, languages, and other things that I have work with.
+> Tools, languages, and other things that I have worked with.
 
 ### 🚀 Languages & Frameworks
 
