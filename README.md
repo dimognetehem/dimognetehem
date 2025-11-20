@@ -127,7 +127,7 @@
       <img src="./badges/MOSWord.png" width="128" height="128" alt="MOS Word" /><br>29/02/2021
     </td>
     <td align="center" width="156">
-      <img src="./badges/gcpbadge.png" width="128" height="128" alt="GCP ACE" /><br><b>(In progress...)</b>
+      <img src="./badges/google-cloud-engineering-certificate.png" width="128" height="128" alt="GCP ACE" /><br><b>22/11/2024 <a href="https://www.credly.com/badges/f48b1e41-4b3f-4303-a5f9-6524dda196b6/public_url">(Link)</a></b>
     </td>
     <td align="center" width="156">
       <img src="./badges/githubfoundations.png" width="128" height="128" alt="GitHub Foundations" /><br><b>(In progress...)</b>
